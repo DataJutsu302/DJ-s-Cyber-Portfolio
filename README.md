@@ -21,3 +21,12 @@ While respecting NCL’s policies (no challenge write-ups or restricted details)
 - **Strengthened my ability to self-learn quickly** — every competition introduced new tools, methodologies, and techniques I needed to pick up on the fly. I enjoyed the exposure and the wide range of topics covered. 
 
 These experiences reinforced my interest in cyber defense, problem-solving, friendly competition and continuous improvement.
+
+### 🔹 NCL Personal and Team Score Reports
+These public performance reports are safe to share and commonly reviewed by employers:
+
+- **Individual Game Report:**  
+  https://cyberskyline.com/report/R7H77V17AB87
+
+- **Team Game Report:**  
+  https://cyberskyline.com/report/C12M5XU0EP2X
