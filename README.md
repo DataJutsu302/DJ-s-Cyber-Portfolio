@@ -8,6 +8,7 @@ I first became interested in cybersecurity after a recommendation from a close f
 - GIAC Security Essentials (GSEC)
 - GIAC Incident Handler (GCIH)
 - GIAC Certified Intrusion Analyst (GCIA)
+- GIAC Continuous Monitoring (GMON) 
   
 ## 🎯 My CTF Experience  
 Participating in cybersecurity competitions like the National Cyber League was a major turning point for me. I enjoyed the challenge of being placed under pressure and having to learn new skills quickly to solve problems in real time. Working alongside teammates and sharing strategies helped me understand how defenders collaborate in real environments, and I found that I genuinely enjoyed the investigative mindset required to break down unfamiliar scenarios.
